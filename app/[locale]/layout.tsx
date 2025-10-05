@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(APP_URL),
   description: "Calibrate your projector for sewing patterns",
   viewport:
-    "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+    "viewport-fit=cover, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
   applicationName: APP_TITLE,
   title: APP_TITLE,
   manifest: "/manifest.json",
